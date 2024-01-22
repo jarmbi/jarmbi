@@ -1,4 +1,4 @@
-I'm Justin, and I'm a hobbyist coder with a bunch of small projects.
+I'm Justin, and I'm a hobbyist programmer, currently majoring in Information Technology.
 
 Language Experience:
  - Java (beginner)
