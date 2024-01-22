@@ -1,4 +1,4 @@
-I'm Justin, and I'm a hobbyist programmer, currently majoring in Information Technology.
+I'm Justin, and I'm a hobbyist programmer, and I'm currently majoring in Information Technology.
 
 Language Experience:
  - Java (beginner)
