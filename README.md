@@ -1,8 +1,10 @@
 I'm Justin, and I'm a hobbyist programmer, and I'm currently majoring in Information Technology.
 
 Language Experience:
- - Java (beginner)
- - C (beginner)
+ - Java (intermediate)
+ - C (intermediate)
+ - C# (intermediate)
+ - C++ (beginner) 
 
 Contact me:
  - Discord: jarmbi
